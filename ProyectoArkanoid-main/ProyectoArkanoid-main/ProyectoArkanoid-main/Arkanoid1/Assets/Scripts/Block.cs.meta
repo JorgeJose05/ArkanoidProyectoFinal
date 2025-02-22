@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 6e58ccfd26baac368bcbbbfc9dd7b52f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - particles: {instanceID: 0}
+  - destroySound: {fileID: 8300000, guid: 0cae8e86f9881554c8f8ecd026392d02, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

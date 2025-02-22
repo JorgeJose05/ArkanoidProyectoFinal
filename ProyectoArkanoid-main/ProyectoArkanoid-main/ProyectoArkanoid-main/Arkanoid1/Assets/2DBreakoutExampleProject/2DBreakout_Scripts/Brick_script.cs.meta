@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: c0cfce21ddb6249f895a606e0dde2159
+timeCreated: 1504425233
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107757
+  packageName: Untitled
+  packageVersion: 1.0
+  assetPath: Assets/2DBreakoutExampleProject/2DBreakout_Scripts/Brick_script.cs
+  uploadId: 220490
